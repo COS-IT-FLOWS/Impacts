@@ -50,7 +50,6 @@ To use the Flood Forecasting System Impact Assessment, follow these steps for me
 Generate tables summarizing the impacted areas, buildings, and road lengths,population and impacted agricultural area for each panchayat.
 
 ## License
-MIT 
  CoS-IT-FloWS is released under the MIT License. See the License file for more information.
 
 ## Help and Support
